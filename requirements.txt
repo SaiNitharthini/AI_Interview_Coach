@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+PyMuPDF
+pdfplumber
+pandas
+plotly
+reportlab
+python-dotenv
+speechrecognition
