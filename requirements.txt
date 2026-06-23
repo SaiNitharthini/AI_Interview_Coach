@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+PyMuPDF
+pdfplumber
+pandas
+plotly
+speechrecognition
+reportlab
+python-dotenv
+Pillow
+pdf2image
+pytesseract
